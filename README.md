@@ -3,5 +3,5 @@
 ## Datasets
 
 ## Research
-The tides are not what you think - the 29.52 day Sring Neap Cycle
+The tides are not what you think - the 29.52 day Soring Neap Cycle
 http://www.sciencedirect.com/science/article/pii/S0025322706002544
