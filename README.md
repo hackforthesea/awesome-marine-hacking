@@ -27,6 +27,8 @@ http://www.esri.com/industries/oceans
 http://resources.arcgis.com/en/communities/oceans/ 
 http://shipmaps.exactearth.com/
 
+The Ocean Data Portal seems to be sound for quasi-real-time feeds: 
+http://www.oceandataportal.net/portal/
 
 ## Research
 The tides are not what you think - the 29.52 day Spring Neap Cycle
