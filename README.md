@@ -30,6 +30,14 @@ http://shipmaps.exactearth.com/
 The Ocean Data Portal seems to be sound for quasi-real-time feeds: 
 http://www.oceandataportal.net/portal/
 
+Global Temperature and Salinity Profile Programme (GTSPP) dataset: 
+http://coastwatch.pfeg.noaa.gov/erddap/tabledap/erdGtsppBest.html?trajectory,org,type,platform,cruise&distinct()
+
+Bottom Sediments of Georges Bank dataset: 
+http://woodshole.er.usgs.gov/openfile/of03-001/data/seddata/wigley61/wigley61.zip
+
+
+
 ## Research
 The tides are not what you think - the 29.52 day Spring Neap Cycle
 http://www.sciencedirect.com/science/article/pii/S0025322706002544
