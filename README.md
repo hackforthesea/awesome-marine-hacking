@@ -2,9 +2,22 @@
 
 ## Datasets
 
+The International Council for Exploration of the Seas 
+http://www.ices.dk/marine-data/dataset-collections/Pages/default.aspx
+
+NOAA.gov Dataset search 
+https://data.noaa.gov/dataset
+
+Fish Watch - Provides the database on seafood counts 
+http://fishwatch.gov
+
+Economics: National Ocean Watch 
+https://coast.noaa.gov/dataregistry/search/collection/info/enow 
+https://coast.noaa.gov/digitalcoast/training/diving-into-the-ocean-economy-with-economics.html
+
 ## Research
 The tides are not what you think - the 29.52 day Spring Neap Cycle
 http://www.sciencedirect.com/science/article/pii/S0025322706002544
 
 ## Previous Hackathon Submissions
-- https://public.tableau.com/profile/cuong.nguyen1823#!/vizhome/Hack_for_the_Sea/Tempraturetrend
+https://public.tableau.com/profile/cuong.nguyen1823#!/vizhome/Hack_for_the_Sea/Tempraturetrend
