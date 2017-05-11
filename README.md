@@ -11,6 +11,9 @@
 #### Fish Watch - Provides the database on seafood counts 
 - http://fishwatch.gov
 
+#### AEA Research
+- https://www.advancingecoag.com/aea-research
+
 #### Economics: National Ocean Watch 
 - https://coast.noaa.gov/dataregistry/search/collection/info/enow 
 - https://coast.noaa.gov/digitalcoast/training/diving-into-the-ocean-economy-with-economics.html
