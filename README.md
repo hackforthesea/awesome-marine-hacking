@@ -45,6 +45,11 @@
 
 - http://www.pfex.org/info/
 
+#### Marine Data Systems Tools
+
+- http://www.searoutes.com/routing?speed=13&panama=true&suez=true&kiel=true
+- http://www.trusteddocks.com/
+
 ## Research
 #### The tides are not what you think - the 29.52 day Spring Neap Cycle
 - http://www.sciencedirect.com/science/article/pii/S0025322706002544
