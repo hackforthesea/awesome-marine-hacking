@@ -55,4 +55,5 @@
 - http://www.sciencedirect.com/science/article/pii/S0025322706002544
 
 ## Previous Hackathon Submissions
-- https://public.tableau.com/profile/cuong.nguyen1823#!/vizhome/Hack_for_the_Sea/Tempraturetrend
+- https://public.tableau.com/profile/cuong.nguyen1823#!/vizhome/Hack_for_the_Sea/
+- https://github.com/Feneric/LobstaListen
