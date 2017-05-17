@@ -49,6 +49,7 @@
 
 - http://www.searoutes.com/routing?speed=13&panama=true&suez=true&kiel=true
 - http://www.trusteddocks.com/
+- http://www2.searoutes.com/wp-includes/swagger-ui/#/
 
 ## Research
 #### The tides are not what you think - the 29.52 day Spring Neap Cycle
