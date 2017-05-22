@@ -11,6 +11,25 @@
 - [Scripp's Institute of Oceanography](https://scripps.ucsd.edu/news/blogs-and-expeditions) - Blogs and Expeditions
 - [Ocean Alliance](http://whale.org) - Ocean Alliance Blog
 - [Notey Blogs on Oceanography](http://www.notey.com/blogs/oceanography) - Aggregated list of interesting marine blogs and blog posts.
+- [Southern Fried Science](http://www.southernfriedscience.com/)
+- [oceans4ever](http://oceans4ever.com/)
+- [Skidaway Institutes](https://oceanscience.wordpress.com/) - A blog for the Skidaway Institute of Oceanography faculty and staff
+- [Ocean Portal](http://ocean.si.edu/blog) - Smithsonian Museum of Natural History Ocean Blog
+- [V & the Sea](http://vdives.blogspot.com/)
+- [Words in Mocean](https://wordsinmocean.com/)
+- [Ya like Dags?](http://yalikedags.southernfriedscience.com/) - Appreciating the Unappreciated Sharks
+- [Oceans of Opportunity](http://oceanopportunity.com/) - This site is the web portal into the undersea work and world of Michael Lombardi.
+- [Oceana Blog](http://usa.oceana.org/blog)
+- [British Oceanographic Data Center Blog](http://blog.bodc.ac.uk/)
+- [Carl Safina's Blog](http://carlsafina.org/)
+- [Deep Blue Home](http://deepbluehome.blogspot.com/)
+- [Deep Sea News](http://www.deepseanews.com/)
+- [Freaque Waves](http://freaquewaves.blogspot.com/)
+- [Coral Notes from the Field](http://coralnotesfromthefield.blogspot.com/)]
+- [Marine Conservation Institute Blog](https://blog.marine-conservation.org/)
+- [Monkey Face News](http://www.monkeyfacenews.com/my-blog/)
+- [Ocean Doctor](http://oceandoctor.org/)
+- [Oceanographer's Choice](http://www.oceanographerschoice.com/)
 
 Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/issues/new)
 
