@@ -1,5 +1,17 @@
 # Resources for Ocean Hacking
 
+## Blogs
+- [UNder the C](https://underthecblog.org/) - An Ocean Science Blog by Grad Students in Marine Science at UNC- Chapel Hill
+- [oceanbites](https://oceanbites.org/) - The latest oceanography literature, explained
+- [Saltwater Science](https://www.nature.com/scitable/blog/saltwater-science) - Marine science is fascinating, diverse, and relevant to us all. From tiny plankton to enormous mammals, currents, climate and corals, three scientists break down the science of the sea.
+- [The Drop-In Blog @ Moss Landing Marine Labs](https://mlmlblog.wordpress.com/)
+- [Wood's Hole Oceanographic Institution](http://www.whoi.edu/main/blogs-expeditions) - Blogs and Expeditions
+- [Scripp's Institute of Oceanography](https://scripps.ucsd.edu/news/blogs-and-expeditions) - Blogs and Expeditions
+- [Ocean Alliance](http://whale.org) - Ocean Alliance Blog
+- [Notey Blogs on Oceanography](http://www.notey.com/blogs/oceanography) - Aggregated list of interesting marine blogs and blog posts.
+
+Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/issues/new)
+
 ## Datasets
 
 #### The International Council for Exploration of the Seas 
