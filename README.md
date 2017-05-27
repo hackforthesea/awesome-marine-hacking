@@ -84,6 +84,14 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 - http://www.trusteddocks.com/
 - http://www2.searoutes.com/wp-includes/swagger-ui/#/
 
+#### Bureau of Ocean Energy Management 
+
+- [Gulf of Mexico Deepwater Bathymetry Map](https://www.boem.gov/Gulf-of-Mexico-Deepwater-Bathymetry/)
+- [Oil and Gas Energy Programs Maps and GIS Data](https://www.boem.gov/Maps-and-GIS-Data/)
+- [Renewable Energy Program Maps and GIS Data](https://www.boem.gov/Renewable-Energy-Program-Mapping-and-Data/)
+- [Statistics and Facts](https://www.boem.gov/Statistics-and-Facts/)
+- [Research and Studies](https://www.boem.gov/Marine-Minerals-Research-and-Studies/)
+
 ## Research
 #### The tides are not what you think - the 29.52 day Spring Neap Cycle
 - http://www.sciencedirect.com/science/article/pii/S0025322706002544
