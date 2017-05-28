@@ -78,6 +78,10 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 
 - http://www.pfex.org/info/
 
+#### British Oceanographic Data Center
+
+- http://www.bodc.ac.uk/
+
 #### Marine Data Systems Tools
 
 - http://www.searoutes.com/routing?speed=13&panama=true&suez=true&kiel=true
