@@ -94,7 +94,11 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 - [Oil and Gas Energy Programs Maps and GIS Data](https://www.boem.gov/Maps-and-GIS-Data/)
 - [Renewable Energy Program Maps and GIS Data](https://www.boem.gov/Renewable-Energy-Program-Mapping-and-Data/)
 - [Statistics and Facts](https://www.boem.gov/Statistics-and-Facts/)
-- [Research and Studies](https://www.boem.gov/Marine-Minerals-Research-and-Studies/)
+- [Research and Studies](https://www.boem.gov/Marine-Minerals-Research-and-Studies/)\
+
+#### Data Dryad Data Sets
+
+- [Starts with Ocean](https://datadryad.org/search-filter)
 
 ## Research
 #### The tides are not what you think - the 29.52 day Spring Neap Cycle
