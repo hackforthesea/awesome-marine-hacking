@@ -80,7 +80,7 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 
 #### British Oceanographic Data Center
 
-- http://www.bodc.ac.uk/
+- https://www.bodc.ac.uk/data/published_data_library/
 
 #### Marine Data Systems Tools
 
