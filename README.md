@@ -41,6 +41,11 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 #### NOAA.gov Dataset search 
 - https://data.noaa.gov/dataset
 
+#### NOAA Sea Turtles Data
+- http://seamap.env.duke.edu/
+- http://www.seaturtlestatus.org/learn/maps/all
+- https://www.sefsc.noaa.gov/species/turtles/strandings.htm
+
 #### Fish Watch - Provides the database on seafood counts 
 - http://fishwatch.gov
 
