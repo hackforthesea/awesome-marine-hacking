@@ -114,3 +114,7 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 - https://public.tableau.com/profile/bill.ostaski#!/vizhome/ClimateChangeSourcesandEffects/ClimateChangeSourcesandEffects
 - https://github.com/Feneric/LobstaListen
 - https://github.com/morganrstewart/hackforthesea16
+
+## Other Awesome Repositories
+
+- [FishAnnotator](https://github.com/BGWoodward/FishAnnotator) is an application that facilitates annotation of videos and images of fish. Eventually it will be expanded to automatically create annotations using computer vision algorithms.
