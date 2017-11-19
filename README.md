@@ -35,6 +35,9 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 
 ## Datasets
 
+#### World Register of Marine Species 
+- http://marinespecies.org/aphia.php?p=webservice
+
 #### The International Council for Exploration of the Seas 
 - http://www.ices.dk/marine-data/dataset-collections/Pages/default.aspx
 
