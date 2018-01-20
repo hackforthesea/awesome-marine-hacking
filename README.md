@@ -35,6 +35,9 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 
 ## Datasets
 
+### Cornell Lab's Macaulay Library of Natural Sounds
+- https://www.macaulaylibrary.org/
+
 #### World Register of Marine Species 
 - http://marinespecies.org/aphia.php?p=webservice
 
