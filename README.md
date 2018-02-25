@@ -112,6 +112,28 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 
 - [Starts with Ocean](https://datadryad.org/search-filter)
 
+## Hardware
+- http://ocean-innovations.net/products/
+- http://ocean-innovations.net/companies/global-ocean-design/products/10-polystyrene-spheres/instrumentation-sphere-g-141/
+- http://ocean-innovations.net/companies/linkquest/tracklink-models/tracklink-1500-series/
+- http://www.teledynemarine.com/920-series-atm-926?ProductLineID=8
+- http://www.dupont.com/products-and-services/plastics-polymers-resins/thermoplastics/brands/delrin-acetal-resin.html
+- http://plasticworld.ca/store/index.php?main_page=product_info&products_id=41
+- http://www.novabraid.com/rope/spectec-12/
+
+#### Communications
+- https://www.metocean.com/shop/telematics/satellite-phones/
+- https://www.metocean.com/product/shout-ts/
+- https://www.iridium.com/products/iridium-go/
+- https://www.iridium.com/products/iridium-go/
+
+#### Acoustic Monitoring
+- https://www.metocean.com/shop/defence-security/acoustic-monitoring/ 
+
+#### EM/ER
+- http://www.archipelago.ca/fisheries-monitoring/electronic-monitoring/
+- https://www.immervisionenables.com/
+
 ## Research
 #### The tides are not what you think - the 29.52 day Spring Neap Cycle
 - http://www.sciencedirect.com/science/article/pii/S0025322706002544
