@@ -38,6 +38,15 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 ### Cornell Lab's Macaulay Library of Natural Sounds
 - https://www.macaulaylibrary.org/
 
+## NOAA Digital Coast
+- https://coast.noaa.gov/digitalcoast/
+
+## Pangaea - Data Publisher for Earth & Environmental Science
+- https://www.pangaea.de/
+
+## Global Biodiversity Information Facility
+- https://www.gbif.org/
+
 #### World Register of Marine Species 
 - http://marinespecies.org/aphia.php?p=webservice
 
