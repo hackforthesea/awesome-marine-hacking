@@ -156,3 +156,4 @@ Have more to add? [Create an issue!](https://github.com/hackforthesea/resources/
 ## Other Awesome Repositories
 
 - [FishAnnotator](https://github.com/BGWoodward/FishAnnotator) is an application that facilitates annotation of videos and images of fish. Eventually it will be expanded to automatically create annotations using computer vision algorithms.
+- [FishID Studio](https://github.com/viniciusscience/fishid-studio) - Open-source computer vision and deep learning platform for automated identification of migratory marine fish species, fisheries electronic monitoring (EM), video tracking (ByteTrack + SAM 2), biometry, and visual explainability (Grad-CAM).
